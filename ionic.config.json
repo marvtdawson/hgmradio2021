@@ -1,0 +1,8 @@
+{
+  "name": "hgmRadio2021",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "pro_id": "44ef672f"
+}
